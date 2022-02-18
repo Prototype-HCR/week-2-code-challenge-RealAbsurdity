@@ -13,16 +13,16 @@ Use if and elif to make this happen:
 
 if condition 1:
 
-    code to execute
+    # code to execute
     
 elif condition 2:
 
-    code to execute
+    # code to execute
     
 elif condition 3:
 
-    code to execute
+    # code to execute
     
 else:
 
-    default code to execute
+    # default code to execute
