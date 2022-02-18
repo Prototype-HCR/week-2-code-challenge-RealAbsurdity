@@ -12,11 +12,17 @@ When you push both buttons the lights should light up with a THIRD color
 Use if and elif to make this happen:
 
 if condition 1:
+
     code to execute
+    
 elif condition 2:
+
     code to execute
+    
 elif condition 3:
+
     code to execute
+    
 else:
 
     default code to execute
